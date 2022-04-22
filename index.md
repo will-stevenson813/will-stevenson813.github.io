@@ -5,7 +5,7 @@ title: William Stevenson WebPage
 
 ##  Projects
 <a> 
-<img src="pmb2.png" alt="pmb" width="250"/>
+<img src="WillPic.jpg" alt="pmb" width="250"/>
 </a>
 
 ## Contact Information 
