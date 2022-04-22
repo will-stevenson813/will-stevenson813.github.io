@@ -3,7 +3,6 @@ layout: page
 title: William Stevenson WebPage
 ---
 
-##  Projects
 <a> 
 <img src="WillPic.jpg" alt="pmb" width="250"/>
 </a>
