@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analysis of Economic Data
+title: William Stevenson WebPage
 ---
 
 ##  Projects
@@ -10,11 +10,8 @@ title: Analysis of Economic Data
 
 ## Contact Information 
 
-Paul Beaumont<br/>
-Department of Economics<br/>
+William Stevenson<br/>
 Florida State University <br/>
 Tallahassee, Florida, 32306 <br/>
 
-[Email:beaumont@fsu.edu](mailto:beaumont@fsu.edu)
-
-[Web Page:](https://paulmbeaumont.netlify.app/)
+[Email:ws15e@my.fsu.edu](mailto:ws15e@my.fsu.edu)
